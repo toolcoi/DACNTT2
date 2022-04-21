@@ -1,0 +1,5 @@
+Danh sách mua thiết bị
++  ESP8266 NodeMCU
++  Bảng nhựa, dây điện
++  Bóng đèn
++ 4-channel 5V Relay Module
